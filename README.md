@@ -8,4 +8,4 @@ This project demonstrates basic DOM manipulation and responsive design.
 - User-friendly interface.
 
 ## Live Demo
-[http://localhost:3000/](#) <!-- link to your deployed project -->
+[ https://rutuja-2001.github.io/Calculator/](#) <!-- link to your deployed project -->
